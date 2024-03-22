@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://notion-clone.vercel.app/](https://notion-clone.vercel.app/)
+[https://notion-clone-origin.vercel.app/](https://notion-clone-origin.vercel.app/)
 
 <h2>🧐 Features</h2>
 
