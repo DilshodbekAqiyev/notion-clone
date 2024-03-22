@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Building a Notion Clone with Next.js Stripe Node.js Shadcn UI and TypeScript</h1>
 
-<p align="center"><img src="https://media.graphassets.com/gVATMdzAQNiHOD9rolSO" alt="project-image"></p>
+<p align="center"><img src="public/notion-preview.png" alt="project-image"></p>
 
 <p id="description">Unlock the potential of modern web development by enrolling in our comprehensive course on building a Notion clone using cutting-edge technologies. This hands-on project-based learning experience will guide you through the entire process of creating a feature-rich collaborative note-taking application equipped with the latest web development tools and frameworks.</p>
 
